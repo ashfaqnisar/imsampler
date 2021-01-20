@@ -1,0 +1,15 @@
+{
+  "name": "imsampler",
+  "version": "1.0.0",
+  "description": "A cli for creating image samples",
+  "main": "index.js",
+  "repository": "https://github.com/ashfaqnisar/imsampler.git",
+  "author": {
+    "name": "Ashfaq Nisar",
+    "url": "https://github.com/ashfaqnisar"
+  },
+  "license": "MIT",
+  "bin": {
+    "imsampler": "./bin/imsampler.js"
+  }
+}
